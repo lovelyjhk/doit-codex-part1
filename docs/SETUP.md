@@ -2,8 +2,8 @@
 
 ## Windows에서 폴더와 파이썬 준비하기
 
-1. 파일 탐색기에서 문서 폴더를 열고 `doit-work`라는 새 폴더를 만듭니다.
-2. [VS Code 다운로드](https://code.visualstudio.com/Download)에서 PC에 맞는 Windows 설치 파일을 받아 설치합니다. **파일 → 폴더 열기**에서 `doit-work`를 선택합니다.
+1. 파일 탐색기에서 문서 폴더를 열고 `doit-work`라는 새 폴더를 만듭니다. [실습별 폴더 준비](WORK_FOLDERS.md)에 따라 이번 실습의 하위 폴더도 만듭니다. 첫 hello.py 실습은 `02-hello`입니다.
+2. [VS Code 다운로드](https://code.visualstudio.com/Download)에서 PC에 맞는 Windows 설치 파일을 받아 설치합니다. **파일 → 폴더 열기**에서 방금 만든 **개별 실습 폴더**를 선택합니다. 첫 hello.py 실습에서는 `doit-work/02-hello`를 엽니다.
 3. VS Code의 **터미널 → 새 터미널**을 선택합니다. 터미널은 프로그램 실행 명령을 입력하는 창입니다.
 4. 다음 명령으로 파이썬이 설치되어 있는지 확인합니다.
 

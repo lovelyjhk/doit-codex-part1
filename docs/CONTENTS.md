@@ -14,6 +14,7 @@
 | 02-1 VS Code와 IDE 확장 설치 | [본문 실습 1](../chapter02/01_setup/README.md) | 빈 작업 폴더 | 같은 안내의 완료 기준 |
 | 02-2 첫 번째 명령 | [본문 실습 2](../chapter02/02_first_command/README.md) | 빈 작업 폴더 | [hello.py](../solutions/ch02/02_first_command/hello.py) |
 | 02-3 스레드와 메모리 | [본문 실습 3](../chapter02/03_thread_memory/README.md) | [hello.py](../chapter02/03_thread_memory/start/hello.py) | [모범 코드](../solutions/ch02/03_thread_memory/hello.py), [메모리 확인 기준](../solutions/ch02/03_thread_memory/memory-check.md) |
+| 02-3 오늘의 추천 확장 예시 | [입력할 프롬프트](../chapter02/03_thread_memory/today-picks.md) | 시작 파일 없이 대화로 진행 | [3곡 조합 예시와 확인 기준](../solutions/ch02/03_thread_memory/today-picks.md) |
 | 02-3 @ 파일 태그 | [본문 실습 4](../chapter02/04_file_tag/README.md) | [README.md](../chapter02/04_file_tag/start/README.md), [hello.py](../chapter02/04_file_tag/start/hello.py) | [답안](../solutions/ch02/04_file_tag/answer.md) |
 | 02-3 diff | [본문 실습 5](../chapter02/05_diff/README.md) | [hello.py](../chapter02/05_diff/start/hello.py) | [모범 코드](../solutions/ch02/05_diff/hello.py), [diff](../solutions/ch02/05_diff/expected.diff) |
 | 한 걸음 더 명령어 위험도 | [보충 예제](../chapter02/command_check/README.md) | [작업 계획](../chapter02/command_check/plans.md) | [답안](../solutions/ch02/command_check.md) |

@@ -15,6 +15,7 @@
 | 02-2 첫 명령 | [hello.py 생성과 실행](chapter02/02_first_command/README.md) |
 | 02-3 같은 스레드 | [이름·날짜 출력과 후속 수정](chapter02/03_thread_memory/README.md) |
 | 02-3 새 스레드 메모리 | [달빛책방 설정과 새 대화 요청](chapter02/03_thread_memory/memory.md) |
+| 02-3 달빛책방 확장 예시 | [노래 3곡·책·음료로 오늘의 추천 만들기](chapter02/03_thread_memory/today-picks.md) |
 | 02-3 파일 태그 | [README.md 참고 요청](chapter02/04_file_tag/README.md) |
 | 02-3 diff | [인사말 변경·재수정·적용 전 제안](chapter02/05_diff/README.md) |
 | 02-2 한 걸음 더 | [작업 영향 검토](chapter02/command_check/README.md) |

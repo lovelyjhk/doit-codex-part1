@@ -18,6 +18,8 @@
 
 [명령어 실행 전 검토 답안](ch02/command_check.md)
 
+[달빛책방 오늘의 추천 조합 예시](ch02/03_thread_memory/today-picks.md)
+
 ## 2장 마무리 문제
 
 1. [@ 파일 태그 5줄 요약](ch03/ex03_2.md)
