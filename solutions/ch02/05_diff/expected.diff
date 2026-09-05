@@ -1,0 +1,11 @@
+--- a/hello.py
++++ b/hello.py
+@@ -1,7 +1,7 @@
+ from datetime import date
+ 
+ name = input("이름을 입력하세요: ")
+-greeting = f"안녕하세요, {name}님!"
++greeting = "Hello, Do it! Codex!"
+ today = date.today()
+ 
+ print(f"{greeting} 오늘 날짜는 {today}입니다.")
