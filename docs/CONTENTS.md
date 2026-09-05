@@ -1,8 +1,8 @@
-# 원고와 실습 파일 대응표
+# 실습 자료 목록
 
-기준 원고와 보완 내용은 [SOURCE.md](SOURCE.md)를 참고하세요. 원고의 본문 실습 5개와 장별 마무리 문제 5개를 모두 연결했습니다.
+본문 실습 5개와 마무리 문제 5개에 필요한 자료입니다. 출판 준비 중인 초안이며, 수정 사항은 [변경 이력](../CHANGELOG.md)에서 확인할 수 있습니다.
 
-| 원고의 항목 | 문제·안내 | 시작 자료 | 결과·모범 답안 |
+| 책의 항목 | 문제·안내 | 시작 자료 | 결과·모범 답안 |
 |---|---|---|---|
 | 01-1 엑셀 합계 작업 예시 | [파일 작업](../chapter01/examples/file-task.md) | [CSV로 제공한 매출](../chapter01/examples/sales_2026.csv) | [합계 코드](../solutions/ch01/examples/sum_sales.py) |
 | 01-2 좋은 프롬프트 6원칙 | [예시 프롬프트](../chapter01/examples/prompts.md) | [예시 자료](../chapter01/examples/README.md) | [결과 모음](../solutions/ch01/examples/README.md) |
