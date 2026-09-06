@@ -1,0 +1,10 @@
+{
+  "mode": "dry-run",
+  "recipient": "me@example.com",
+  "cc": [],
+  "bcc": [],
+  "attachments": [],
+  "sent": false,
+  "approval": "미확인",
+  "note": "가상 주소 미리보기 파일만 생성. 실제 시험은 사용자가 메일 서비스에서 직접 수행."
+}

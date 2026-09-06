@@ -26,3 +26,10 @@
 2. [승인 방식 비교](ch03/ex03_3.md)
 
 날짜, 날씨, 음악, 실제 승인 창과 메모리 동작은 실행 환경에 따라 달라집니다. 관찰표의 빈칸을 답안 예시로 채우지 말고 직접 확인한 결과를 기록하세요.
+
+## 둘째마당 모범 답안
+
+- [3장 문서·보고서 자동화](part2/chapter03/README.md) · [마무리 문제 답안](part2/chapter03/problems.md)
+- [4장 파일·반복 업무 자동화](part2/chapter04/README.md) · [마무리 문제 답안](part2/chapter04/problems.md)
+- [5장 데이터·엑셀 자동화](part2/chapter05/README.md) · [마무리 문제 답안](part2/chapter05/problems.md)
+- [6장 내 직군에서 시작하기](part2/chapter06/README.md) · [마무리 문제 답안](part2/chapter06/problems.md)

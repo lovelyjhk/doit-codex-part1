@@ -1,0 +1,19 @@
+Twemoji PNG 연습 이미지
+제작자: Twitter, Inc. 및 Twemoji 기여자
+프로젝트: https://github.com/twitter/twemoji
+이미지 라이선스: Creative Commons Attribution 4.0 International (CC BY 4.0)
+라이선스: https://creativecommons.org/licenses/by/4.0/
+원본 라이선스 파일: https://github.com/twitter/twemoji/blob/master/LICENSE-GRAPHICS
+2026-09-06 내려받음. 배포본 이미지 내용과 원본 파일명은 변경하지 않았습니다.
+연습에서 이름을 바꾸어도 이 출처 파일을 함께 보관하세요.
+
+1f600.png: https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f600.png
+SHA-256: 9cfc5ad34e89b6eebddcd5ec715c224a86c99ea5b9fad999407dee7e32f681b6
+1f603.png: https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f603.png
+SHA-256: 771063f3b2b4950334f4d187069c87041036842149b3e4268221db325b6bde0e
+1f604.png: https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f604.png
+SHA-256: ae89e05450587e8f1f4786c0d266cf94ef2b306782fb6f9c30e43c0023ed148b
+1f60a.png: https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f60a.png
+SHA-256: 5dc76062acc5a80d95fdd823db908640d52dac05ad1a4899ab9e723bfa0bbbfb
+1f680.png: https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f680.png
+SHA-256: a4d8b439357e38510505048dfc85c54c9cbb08c04ef4d9d4bacd03572a17c9a5

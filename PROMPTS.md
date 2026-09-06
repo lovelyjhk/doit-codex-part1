@@ -23,3 +23,10 @@
 | 2장 문제 2 | [같은 파일 생성 요청으로 승인 방식 비교](ch03/problems/ex03_3.md) |
 
 `[입력 파일]` 같은 대괄호가 있는 재사용 템플릿은 실제 값으로 바꿉니다. 그 밖의 실습 문장은 안내대로 파일을 준비하면 그대로 사용할 수 있습니다.
+
+## 둘째마당
+
+- [3장 문서·보고서 자동화](chapter03/PROMPTS.md) · [마무리 문제](chapter03/problems.md)
+- [4장 파일·반복 업무 자동화](chapter04/PROMPTS.md) · [마무리 문제](chapter04/problems.md)
+- [5장 데이터·엑셀 자동화](chapter05/PROMPTS.md) · [마무리 문제](chapter05/problems.md)
+- [6장 내 직군에서 시작하기](chapter06/PROMPTS.md) · [마무리 문제](chapter06/problems.md)

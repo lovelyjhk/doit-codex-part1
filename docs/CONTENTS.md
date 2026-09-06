@@ -1,6 +1,6 @@
 # 실습 자료 목록
 
-본문 실습 5개와 마무리 문제 5개에 필요한 자료입니다. 출판 준비 중인 초안이며, 수정 사항은 [변경 이력](../CHANGELOG.md)에서 확인할 수 있습니다.
+첫째·둘째마당의 본문 실습과 마무리 문제에 필요한 자료입니다. 출판 준비 중인 초안이며, 수정 사항은 [변경 이력](../CHANGELOG.md)에서 확인할 수 있습니다.
 
 | 책의 항목 | 문제·안내 | 시작 자료 | 결과·모범 답안 |
 |---|---|---|---|
@@ -31,3 +31,14 @@
 | diff | 이름 입력은 유지하고 인사말 한 줄을 `Hello, Do it! Codex!`로 변경 |
 
 각 단계의 `start`는 시작 상태, `solutions`는 완료 상태입니다. 처음부터 모든 완료 파일을 한 폴더에 복사하지 않습니다.
+
+## 둘째마당
+
+| 장 | 실습과 자료 | 문제 | 답안 |
+|---|---|---|---|
+| 3장 문서·보고서 자동화 | [실습](../chapter03/README.md) | [문제](../chapter03/problems.md) | [답안](../solutions/part2/chapter03/README.md) |
+| 4장 파일·반복 업무 자동화 | [실습](../chapter04/README.md) | [문제](../chapter04/problems.md) | [답안](../solutions/part2/chapter04/README.md) |
+| 5장 데이터·엑셀 자동화 | [실습](../chapter05/README.md) | [문제](../chapter05/problems.md) | [답안](../solutions/part2/chapter05/README.md) |
+| 6장 내 직군에서 시작하기 | [실습](../chapter06/README.md) | [문제](../chapter06/problems.md) | [답안](../solutions/part2/chapter06/README.md) |
+
+[파일명으로 찾기](PART2_FILES.md)에서 같은 이름의 파일을 실습별 경로로 구분합니다.
