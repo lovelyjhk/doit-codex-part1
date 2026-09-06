@@ -15,3 +15,5 @@
 CSV는 UTF-8입니다. Excel에서 한글이 깨지면 [데이터 → 텍스트/CSV에서]로 UTF-8을 선택합니다. XLSX와 HTML은 다운로드한 뒤 여세요. XLSX 결과는 계산과 차트 구성·미리 보기를 검증한 참고 파일이며, 독자 PC의 Excel 표시도 직접 확인해야 합니다.
 
 기존 [HTML 보고서](05_browser_chart/README.md), [HTML 그래프 검수·인계](06_chart_handoff/README.md), `03_chart_brief`, `04_png_charts`, `07_chunk_csv`, `problems/01_profile`~`04_quality`는 이전 구성의 보충 예제로 보존했습니다. 현재 마무리 문제 번호와는 다릅니다.
+
+[둘째마당 처음으로](../part2/README.md)

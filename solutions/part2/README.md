@@ -1,5 +1,7 @@
 # 둘째마당 모범 답안
 
+[둘째마당 시작 안내](../../part2/README.md) · [둘째마당 작업 규칙](../../part2/RULES.md)
+
 - [3장 문서·보고서 자동화](chapter03/README.md)
 - [4장 파일·반복 업무 자동화](chapter04/README.md)
 - [5장 데이터·엑셀 자동화](chapter05/README.md)

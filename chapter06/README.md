@@ -48,3 +48,5 @@
 - 메일·게시·발주·출하·일정 변경은 초안 검토 후 사람이 결정합니다.
 
 [모범 답안 폴더](../solutions/part2/chapter06/README.md)
+
+[둘째마당 처음으로](../part2/README.md)

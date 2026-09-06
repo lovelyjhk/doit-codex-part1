@@ -2,6 +2,10 @@
 
 첫째·둘째마당의 본문 실습과 마무리 문제에 필요한 자료입니다. 출판 준비 중인 초안이며, 수정 사항은 [변경 이력](../CHANGELOG.md)에서 확인할 수 있습니다.
 
+[첫째마당 시작 안내](../part1/README.md) · [둘째마당 시작 안내](../part2/README.md)
+
+## 첫째마당
+
 | 책의 항목 | 문제·안내 | 시작 자료 | 결과·모범 답안 |
 |---|---|---|---|
 | 01-1 엑셀 합계 작업 예시 | [파일 작업](../chapter01/examples/file-task.md) | [CSV로 제공한 매출](../chapter01/examples/sales_2026.csv) | [합계 코드](../solutions/ch01/examples/sum_sales.py) |
@@ -21,7 +25,7 @@
 | 2장 문제 1 @ 파일 태그 | [문제](../ch03/problems/ex03_2.md) | [ch03/ex03_2.md](../ch03/ex03_2.md) | [원고 경로의 답안](../solutions/ch03/ex03_2.md) |
 | 2장 문제 2 승인 방식 | [문제](../ch03/problems/ex03_3.md) | 빈 연습 폴더, [관찰표](../ch03/approval-observation.md) | [원고 경로의 답안](../solutions/ch03/ex03_3.md) |
 
-## hello.py 단계별 차이
+### hello.py 단계별 차이
 
 | 단계 | 실행 동작 |
 |---|---|

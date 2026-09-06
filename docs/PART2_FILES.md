@@ -2,6 +2,8 @@
 
 각 장 README의 본문 순서가 기준입니다. 목록에는 보충 예제도 포함되어 있으므로 현재 실습에서 지정한 경로를 사용하세요. 같은 파일명이 있어도 실습에 따라 내용이 다릅니다.
 
+[둘째마당 시작 안내](../part2/README.md) · [둘째마당 작업 규칙](../part2/RULES.md)
+
 | 장 | 파일명 | 실제 경로 |
 |---|---|---|
 | 3장 | `meeting_notes_thu.md` | [chapter03/01_meeting/start/meeting_notes_thu.md](../chapter03/01_meeting/start/meeting_notes_thu.md) |

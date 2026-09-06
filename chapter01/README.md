@@ -10,3 +10,5 @@
 | [1 부족한 프롬프트 고치기](problems/ex01_1.md) | [답안](../solutions/ch01/ex01_1.md) |
 | [2 내 업무용 템플릿 만들기](problems/ex01_2.md) | [답안](../solutions/ch01/ex01_2.md) |
 | [3 반복 규칙 파일 초안 작성](problems/ex01_3.md) | [답안](../solutions/ch01/ex01_3.md) |
+
+[첫째마당 처음으로](../part1/README.md)
