@@ -87,6 +87,7 @@
 | 5장 | `large_sales_sample.csv` | [chapter05/inputs/large_sales_sample.csv](../chapter05/inputs/large_sales_sample.csv) |
 | 5장 | `README.md` | [chapter05/inputs/README.md](../chapter05/inputs/README.md) |
 | 5장 | `sales_sample.csv` | [chapter05/inputs/sales_sample.csv](../chapter05/inputs/sales_sample.csv) |
+| 5장 | `july_sales_chart_review.xlsx` | [chapter05/inputs/july_sales_chart_review.xlsx](../chapter05/inputs/july_sales_chart_review.xlsx) |
 | 5장 | `sales_sample.csv` | [chapter05/problems/01_profile/start/sales_sample.csv](../chapter05/problems/01_profile/start/sales_sample.csv) |
 | 5장 | `sales_2026.csv` | [chapter05/problems/02_excel/start/sales_2026.csv](../chapter05/problems/02_excel/start/sales_2026.csv) |
 | 5장 | `sales_2026.csv` | [chapter05/problems/03_charts/start/sales_2026.csv](../chapter05/problems/03_charts/start/sales_2026.csv) |

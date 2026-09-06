@@ -18,7 +18,9 @@
 
 [answer-04.xlsx](answers/answer-04.xlsx) · [chunk-log-100.txt](answers/chunk-log-100.txt)
 
-## 문제 5
+## 문제 5: 엑셀 상품별 차트 검수·인계
+
+[6행 CSV](../../../chapter05/inputs/sales_sample.csv)와 [검수용 엑셀 보고서](../../../chapter05/inputs/july_sales_chart_review.xlsx)를 함께 대조하는 문제입니다.
 
 [answer-05-qa.md](answers/answer-05-qa.md) · [answer-05-handoff.md](answers/answer-05-handoff.md)
 

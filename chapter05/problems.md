@@ -1,6 +1,6 @@
 # 5장 마무리 문제
 
-새 연습 폴더 안에 `inputs`와 `results` 폴더를 만드세요. 1~4번은 [inputs](inputs/)를 복사하고 5번은 해당 시작 폴더의 파일을 연습 폴더로 복사합니다. 필요한 실행 준비를 코덱스가 먼저 설명하도록 요청하고 확인 뒤 실행하세요. 모든 자료는 가상 데이터입니다.
+새 연습 폴더 안에 `inputs`와 `results` 폴더를 만드세요. [inputs](inputs/)의 자료를 연습 폴더의 `inputs`에 복사합니다. 5번은 CSV와 XLSX 두 파일을 함께 사용합니다. 필요한 실행 준비를 코덱스가 먼저 설명하도록 요청하고 확인 뒤 실행하세요. 모든 자료는 가상 데이터입니다.
 
 ## 1
 
@@ -69,15 +69,19 @@ results/answer-04.xlsx의 추출자료 시트에는 선택한 원본 기록을, 
 
 ## 5
 
-- **문제 제목**: 그래프 검수표와 인계 메모 만들기 ★
-- **문제 내용**: 본문의 그래프 검수 실습을 복습합니다. 제공한 CSV와 HTML·설명서를 대조하여 `results/answer-05-qa.md`와 `results/answer-05-handoff.md`를 만드세요. 제목·축·단위·기간·빈 값·집계 기준과 직접 다시 계산할 숫자 3개를 적고, 확인한 내용과 실제 브라우저에서 확인할 내용을 구분하세요. 원본·차트를 수정하거나 확인하지 않은 항목을 완료로 쓰지 마세요.
-- **필요 파일**: [06_chart_handoff/start/](06_chart_handoff/start/)
+- **문제 제목**: 엑셀 상품별 차트 검수표와 인계 메모 만들기 ★
+- **문제 내용**: 본문의 상품별 매출 비교 실습을 복습합니다. 6행 CSV와 제공한 엑셀 보고서를 대조하여 `results/answer-05-qa.md`와 `results/answer-05-handoff.md`를 만드세요. 상품별 차트의 제목·축·단위·기간·빈 값·집계 기준을 점검하고, 6월 전체 매출·7월 전체 매출·증감액의 계산 근거를 적으세요. 상품 A·B의 증감과 막대 축의 시작값도 확인합니다. 파일에서 확인한 내용과 실제 Excel 화면에서 확인할 내용을 구분하세요.
+- **필요 파일**: [inputs/sales_sample.csv](inputs/sales_sample.csv) · [inputs/july_sales_chart_review.xlsx](inputs/july_sales_chart_review.xlsx)
 - **모범 답안 파일**: [answer-05-qa.md](../solutions/part2/chapter05/answers/answer-05-qa.md) · [answer-05-handoff.md](../solutions/part2/chapter05/answers/answer-05-handoff.md)
 
 복사할 요청문:
 
 ```text
-sales.csv, data-profile.md, chart-brief.md, sales-chart.html, chart-spec.md를 읽고 results/answer-05-qa.md와 results/answer-05-handoff.md를 만들어 줘. 제목·축·단위·기간·빈값·집계 기준과 사람이 다시 계산할 숫자 3개를 정리해 줘. 실제 화면에서 확인하지 않은 항목은 확인 필요로 표시하고 원본과 차트는 수정하지 마. 담당자와 기한은 만들지 마.
+inputs/sales_sample.csv와 inputs/july_sales_chart_review.xlsx를 읽고 results/answer-05-qa.md와 results/answer-05-handoff.md를 만들어 줘. 상품별 차트의 제목·축·단위·기간·빈 값·집계 기준을 점검하고, 6월 전체 매출·7월 전체 매출·증감액의 계산 근거를 적어 줘. 상품 A·B의 증감액, 전체 증감률, 막대 축이 0부터 시작하는지도 확인해 줘.
+원본과 엑셀 보고서는 수정하지 마. 실제 Excel 화면에서 확인하지 않은 항목은 확인 필요로 남기고, 확인하지 않은 항목을 완료로 표시하지 마. 담당자와 기한도 만들지 마.
+인계 메모에는 확인한 내용, 남은 질문과 다음 확인 행동을 적고 결과 파일 위치를 알려 줘.
 ```
+
+두 결과 파일을 열어 6월 7,730,000원, 7월 8,040,000원, 증감액 +310,000원을 직접 다시 계산하세요. 전체 증감률은 약 +4.0%이며 A -210,000원과 B +520,000원의 합이 전체 증감액입니다. Excel에서 XLSX를 열어 상품별 막대 축이 0부터 시작하고 제목·축·범례·한글이 읽히는지도 확인하세요.
 
 [확인값](ANSWERS.md) · [5장 목록](README.md)
