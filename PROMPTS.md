@@ -6,5 +6,7 @@
 |---|---|---|
 | 첫째마당 1~2장 | [첫째마당 프롬프트](part1/PROMPTS.md) | [첫째마당 규칙](part1/RULES.md) |
 | 둘째마당 3~6장 | [둘째마당 프롬프트](part2/PROMPTS.md) | [둘째마당 규칙](part2/RULES.md) |
+| 셋째마당 7~10장 | [셋째마당 프롬프트](part3/PROMPTS.md) | [셋째마당 규칙](part3/README.md#작업-규칙) |
+| 넷째마당 11~14장 | [넷째마당 프롬프트](part4/PROMPTS.md) | [넷째마당 규칙](part4/README.md#작업-규칙) |
 
 [저장소 처음으로](README.md)

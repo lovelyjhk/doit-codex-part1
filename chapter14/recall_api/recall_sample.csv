@@ -1,0 +1,6 @@
+product_name,recall_reason,manufacturer,barcode,expiry_or_use_by,registration_date,source_url,retrieved_at_kst,is_sample
+회화나무,정부수거검사 부적합(소포리코사이드 함량),(주)팜투팜2공장,,,2026-08-21 16:04:01.792006,http://openapi.foodsafetykorea.go.kr/api/sample/I0490/xml/1/5,2026-08-23,true
+레티비전 나이트,식품첨가물(카복시메틸셀룰로스칼슘) 사용 기준 위반,(주)휴온스엔,8809557151867,(소비기한)2028-01-04,2026-08-20 10:44:03.910623,http://openapi.foodsafetykorea.go.kr/api/sample/I0490/xml/1/5,2026-08-23,true
+왕갈비탕,대장균 규격 부적합,(주)더올푸드인더스트리,,(소비기한) 2026-07-21,2026-08-19 13:36:08.998003,http://openapi.foodsafetykorea.go.kr/api/sample/I0490/xml/1/5,2026-08-23,true
+갈은 무,세균수 기준 규격 부적합,오유에프앤비 농업회사법인 주식회사,,(소비기한)2027-08-02,2026-08-14 18:35:27.826855,http://openapi.foodsafetykorea.go.kr/api/sample/I0490/xml/1/5,2026-08-23,true
+유기농 양배추환,금속성이물 기준 규격 부적합,빛가람생명농업공동체협동조합,8809279330601,(소비기한)2028-04-13,2026-08-14 16:47:28.310386,http://openapi.foodsafetykorea.go.kr/api/sample/I0490/xml/1/5,2026-08-23,true
