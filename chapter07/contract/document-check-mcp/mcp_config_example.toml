@@ -1,0 +1,5 @@
+# 아래 server.mjs 경로를 복사한 실습 폴더의 실제 전체 경로로 바꾸세요.
+[mcp_servers.document_check]
+command = "node"
+args = ["C:/V7/chapter07/contract/document-check-mcp/server.mjs"]
+enabled_tools = ["check_document"]

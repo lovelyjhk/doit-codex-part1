@@ -1,0 +1,5 @@
+test_case,expected,actual,pass,author_checked_at
+JSON 불러오기,카드 표시,,,
+검색어 없음,전체 표시,,,
+없는 검색어,빈 결과 안내,,,
+공식 URL 없음,확인 필요 표시,,,

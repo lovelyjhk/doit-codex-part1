@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<I0490>
+  <total_count>372</total_count>
+  <RESULT>
+    <CODE>INFO-000</CODE>
+    <MSG>정상처리되었습니다.</MSG>
+  </RESULT>
+  <row id="0">
+    <RTRVLPLANDOC_RTRVLMTHD />
+    <PRDLST_CD>E0207100000000</PRDLST_CD>
+    <RTRVLPRVNS>정부수거검사 부적합(소포리코사이드 함량)</RTRVLPRVNS>
+    <FRMLCUNIT />
+    <PRDLST_REPORT_NO />
+    <CRET_DTM>2026-08-21 16:04:01.792006</CRET_DTM>
+    <LCNS_NO />
+    <DISTBTMLMT />
+    <PRDLST_TYPE>건강기능식품</PRDLST_TYPE>
+    <ADDR>충청남도 천안시 동남구</ADDR>
+    <BRCDNO />
+    <IMG_FILE_PATH>http://coop.foodsafetykorea.go.kr/open/minfo_image.do?fSeq=2637670, http://coop.foodsafetykorea.go.kr/open/minfo_image.do?fSeq=2637671, http://coop.foodsafetykorea.go.kr/open/minfo_image.do?fSeq=2637672</IMG_FILE_PATH>
+    <MNFDT>데이터없음</MNFDT>
+    <PRDTNM>회화나무</PRDTNM>
+    <PRDLST_CD_NM>회화나무열매추출물</PRDLST_CD_NM>
+    <TELNO />
+    <BSSHNM>(주)팜투팜2공장</BSSHNM>
+    <RTRVLDSUSE_SEQ>3000232894</RTRVLDSUSE_SEQ>
+    <RTRVL_GRDCD_NM>3등급</RTRVL_GRDCD_NM>
+  </row>
+  <row id="1">
+    <RTRVLPLANDOC_RTRVLMTHD />
+    <PRDLST_CD>C0315070100000</PRDLST_CD>
+    <RTRVLPRVNS>식품첨가물(카복시메틸셀룰로스칼슘) 사용 기준 위반</RTRVLPRVNS>
+    <FRMLCUNIT>30g(500mg*60정)</FRMLCUNIT>
+    <PRDLST_REPORT_NO>20190473161415</PRDLST_REPORT_NO>
+    <CRET_DTM>2026-08-20 10:44:03.910623</CRET_DTM>
+    <LCNS_NO>20190473161</LCNS_NO>
+    <DISTBTMLMT>(소비기한)2028-01-04</DISTBTMLMT>
+    <PRDLST_TYPE>가공식품</PRDLST_TYPE>
+    <ADDR>충청남도 금산군</ADDR>
+    <BRCDNO>8809557151867</BRCDNO>
+    <IMG_FILE_PATH>http://coop.foodsafetykorea.go.kr/open/minfo_image.do?fSeq=2636608, http://coop.foodsafetykorea.go.kr/open/minfo_image.do?fSeq=2636609, http://coop.foodsafetykorea.go.kr/open/minfo_image.do?fSeq=2636610</IMG_FILE_PATH>
+    <MNFDT>데이터없음</MNFDT>
+    <PRDTNM>레티비전 나이트</PRDTNM>
+    <PRDLST_CD_NM>과.채가공품</PRDLST_CD_NM>
+    <TELNO />
+    <BSSHNM>(주)휴온스엔</BSSHNM>
+    <RTRVLDSUSE_SEQ>3000232837</RTRVLDSUSE_SEQ>
+    <RTRVL_GRDCD_NM>3등급</RTRVL_GRDCD_NM>
+  </row>
+  <row id="2">
+    <RTRVLPLANDOC_RTRVLMTHD />
+    <PRDLST_CD>C0316060000000</PRDLST_CD>
+    <RTRVLPRVNS>대장균 규격 부적합</RTRVLPRVNS>
+    <FRMLCUNIT>1,000g</FRMLCUNIT>
+    <PRDLST_REPORT_NO>2021026705339</PRDLST_REPORT_NO>
+    <CRET_DTM>2026-08-19 13:36:08.998003</CRET_DTM>
+    <LCNS_NO>20210267053</LCNS_NO>
+    <DISTBTMLMT>(소비기한) 2026-07-21</DISTBTMLMT>
+    <PRDLST_TYPE>축산물</PRDLST_TYPE>
+    <ADDR>경기도 남양주시</ADDR>
+    <BRCDNO />
+    <IMG_FILE_PATH>http://coop.foodsafetykorea.go.kr/open/minfo_image.do?fSeq=2634608</IMG_FILE_PATH>
+    <MNFDT>(제조일자) 2026-07-22</MNFDT>
+    <PRDTNM>왕갈비탕</PRDTNM>
+    <PRDLST_CD_NM>식육추출가공품</PRDLST_CD_NM>
+    <TELNO />
+    <BSSHNM>(주)더올푸드인더스트리</BSSHNM>
+    <RTRVLDSUSE_SEQ>3000232676</RTRVLDSUSE_SEQ>
+    <RTRVL_GRDCD_NM>3등급</RTRVL_GRDCD_NM>
+  </row>
+  <row id="3">
+    <RTRVLPLANDOC_RTRVLMTHD>거래처 재고량 반품 및 소비자 보관물량 회수</RTRVLPLANDOC_RTRVLMTHD>
+    <PRDLST_CD>C0315070100000</PRDLST_CD>
+    <RTRVLPRVNS>세균수 기준 규격 부적합</RTRVLPRVNS>
+    <FRMLCUNIT>30g</FRMLCUNIT>
+    <PRDLST_REPORT_NO>2017056036210</PRDLST_REPORT_NO>
+    <CRET_DTM>2026-08-14 18:35:27.826855</CRET_DTM>
+    <LCNS_NO>20170560362</LCNS_NO>
+    <DISTBTMLMT>(소비기한)2027-08-02</DISTBTMLMT>
+    <PRDLST_TYPE>가공식품</PRDLST_TYPE>
+    <ADDR>경상북도 경산시</ADDR>
+    <BRCDNO />
+    <IMG_FILE_PATH>http://coop.foodsafetykorea.go.kr/open/minfo_image.do?fSeq=2634071, http://coop.foodsafetykorea.go.kr/open/minfo_image.do?fSeq=2634072</IMG_FILE_PATH>
+    <MNFDT>데이터없음</MNFDT>
+    <PRDTNM>갈은 무</PRDTNM>
+    <PRDLST_CD_NM>과.채가공품</PRDLST_CD_NM>
+    <TELNO />
+    <BSSHNM>오유에프앤비 농업회사법인 주식회사</BSSHNM>
+    <RTRVLDSUSE_SEQ>3000232637</RTRVLDSUSE_SEQ>
+    <RTRVL_GRDCD_NM>3등급</RTRVL_GRDCD_NM>
+  </row>
+  <row id="4">
+    <RTRVLPLANDOC_RTRVLMTHD>소비자 보관물량 반품 회수</RTRVLPLANDOC_RTRVLMTHD>
+    <PRDLST_CD>C0323020000000</PRDLST_CD>
+    <RTRVLPRVNS>금속성이물 기준 규격 부적합</RTRVLPRVNS>
+    <FRMLCUNIT>100g</FRMLCUNIT>
+    <PRDLST_REPORT_NO>2010051202363</PRDLST_REPORT_NO>
+    <CRET_DTM>2026-08-14 16:47:28.310386</CRET_DTM>
+    <LCNS_NO>20100512023</LCNS_NO>
+    <DISTBTMLMT>(소비기한)2028-04-13</DISTBTMLMT>
+    <PRDLST_TYPE>가공식품</PRDLST_TYPE>
+    <ADDR>전남광주통합특별시 나주시</ADDR>
+    <BRCDNO>8809279330601</BRCDNO>
+    <IMG_FILE_PATH>http://coop.foodsafetykorea.go.kr/open/minfo_image.do?fSeq=2633758, http://coop.foodsafetykorea.go.kr/open/minfo_image.do?fSeq=2633759, http://coop.foodsafetykorea.go.kr/open/minfo_image.do?fSeq=2633760</IMG_FILE_PATH>
+    <MNFDT>데이터없음</MNFDT>
+    <PRDTNM>유기농 양배추환</PRDTNM>
+    <PRDLST_CD_NM>기타가공품</PRDLST_CD_NM>
+    <TELNO />
+    <BSSHNM>빛가람생명농업공동체협동조합</BSSHNM>
+    <RTRVLDSUSE_SEQ>3000232611</RTRVLDSUSE_SEQ>
+    <RTRVL_GRDCD_NM>3등급</RTRVL_GRDCD_NM>
+  </row>
+</I0490>

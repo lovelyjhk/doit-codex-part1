@@ -1,0 +1,5 @@
+[
+  {"name":"문서 점검 MCP 예제","summary":"실습 폴더의 기계적 표기 후보를 찾는 교육용 예제","category":"문서","provider":"Do it! 교육용 예제","officialUrl":"","readPermission":"지정 텍스트","writePermission":"없음","externalTransfer":"도구 결과는 Codex로 반환됨. 서버 코드의 별도 네트워크 전송 없음","checkedDate":"2026-08-23","status":"교육용 가상 항목"},
+  {"name":"OpenAI MCP 안내","summary":"코덱스 MCP 연결과 권한을 설명하는 공식 문서","category":"공식 문서","provider":"OpenAI","officialUrl":"https://learn.chatgpt.com/docs/extend/mcp?surface=cli","readPermission":"서버별 확인","writePermission":"서버별 확인","externalTransfer":"서버별 확인","checkedDate":"2026-08-23","status":"공식 주소 확인"},
+  {"name":"Official MCP Registry","summary":"MCP 서버의 제공자·버전·주소를 확인하는 공식 레지스트리","category":"발견","provider":"Model Context Protocol","officialUrl":"https://registry.modelcontextprotocol.io/docs","readPermission":"항목별 확인","writePermission":"항목별 확인","externalTransfer":"항목별 확인","checkedDate":"2026-08-23","status":"연결 전 서버별 재확인"}
+]

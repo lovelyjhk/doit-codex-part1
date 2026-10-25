@@ -1,0 +1,4 @@
+place_or_route,information,official_or_experience,source_url,checked_date,confirmed_value,needs_recheck,author_note
+예: 관광지A,운영시간,공식,https://example.com,YYYY-MM-DD,,예,
+예: 교통편B,출발시각,공식,https://example.com,YYYY-MM-DD,,예,
+예: 식당C,대기시간,개인 경험,https://example.com,YYYY-MM-DD,,예,확정 근거가 아닌 참고

@@ -1,0 +1,5 @@
+asset_id,kind,where_used,creator,original_file_or_url,license_or_permission,commercial_print_allowed,modification_allowed,credit_required,checked_date,proof_file,status
+TEXT-001,본문,전체,저자,,,,,,YYYY-MM-DD,,저자 확인 필요
+COVER-001,표지,앞표지,저자 또는 디자이너,,,,,,YYYY-MM-DD,,확인 필요
+FONT-001,글꼴,본문·표지,,,,,,,YYYY-MM-DD,,확인 필요
+IMAGE-001,이미지,본문 또는 표지,,,,,,,YYYY-MM-DD,,확인 필요

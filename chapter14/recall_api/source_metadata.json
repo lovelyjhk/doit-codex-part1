@@ -1,0 +1,8 @@
+{
+  "source_url": "http://openapi.foodsafetykorea.go.kr/api/sample/I0490/xml/1/5",
+  "provider": "식품안전나라",
+  "service_id": "I0490",
+  "retrieved_at_kst": "2026-08-23",
+  "is_sample": true,
+  "sha256": "c028d472f10be0dc6f215be04a6c1cb8671e184d468856adc64ccb226c6d1cca"
+}

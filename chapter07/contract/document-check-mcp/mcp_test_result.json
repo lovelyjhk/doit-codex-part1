@@ -1,0 +1,31 @@
+{
+  "checked_at": "2026-08-23T07:36:50.010Z",
+  "node_version": "v24.16.0",
+  "tool_names": [
+    "check_document"
+  ],
+  "normal_case": {
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"file\": \"sample_contract.txt\",\n  \"findings\": [\n    {\n      \"line\": 3,\n      \"type\": \"띄어쓰기 후보\",\n      \"text\": \"의뢰인 주식회사 새봄과 작업자 김도움은 카드뉴스 제작 업무에 관하여 다음과 같이 계약 한다.\"\n    },\n    {\n      \"line\": 5,\n      \"type\": \"용어 표기 후보\",\n      \"text\": \"제1조 작업자는 신제품 소개용 카드 뉴스 10장을 제작한다.\"\n    },\n    {\n      \"line\": 6,\n      \"type\": \"용어 표기 후보\",\n      \"text\": \"제2조 납품일은 2026-09-30이며 결과물은 PNG와 원본 편집화일로 한다.\"\n    },\n    {\n      \"line\": 8,\n      \"type\": \"띄어쓰기 후보\",\n      \"text\": \"제4조 의뢰인은 계약 시 50%, 최종 납품 확인 후 7일 이내 나머지 50%를 지급 한다.\"\n    },\n    {\n      \"line\": 9,\n      \"type\": \"연속 문장부호\",\n      \"text\": \"제5조 문구와 색상 수정은 2회 포함한다.. 범위를 넘는 수정은 비용과 일정을 다시 합의한다.\"\n    },\n    {\n      \"line\": 10,\n      \"type\": \"반복 공백\",\n      \"text\": \"제6조 원본 파일은 최종 대금 지급 뒤 전달한다.  포트폴리오 공개 시점과 범위는 별도 합의한다.\"\n    },\n    {\n      \"line\": 11,\n      \"type\": \"빈 대괄호\",\n      \"text\": \"제7조 계약 해지와 손해배상은 [ ]에 따른다.\"\n    }\n  ]\n}"
+      }
+    ]
+  },
+  "missing_case": {
+    "relative_path": "missing_document.txt",
+    "rejected": true,
+    "message": "ENOENT: no such file or directory, realpath '<실습 폴더>\\missing_document.txt'"
+  },
+  "traversal_case": {
+    "relative_path": "../outside.txt",
+    "rejected": true,
+    "message": "허용된 실습 폴더 밖의 파일은 읽을 수 없습니다."
+  },
+  "link_escape_case": {
+    "relative_path": "link-escape-14256/outside.txt",
+    "rejected": true,
+    "message": "링크나 정션을 거쳐 허용된 실습 폴더 밖의 파일은 읽을 수 없습니다."
+  },
+  "pass": true
+}

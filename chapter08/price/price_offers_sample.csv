@@ -1,0 +1,4 @@
+candidate,market,seller,model,condition,item_price,currency,local_shipping,international_shipping,agency_fee,estimated_tax,exchange_rate_krw,checked_at,returns_warranty,source_url
+A,국내,가상 국내몰,KB-100,새 제품,149000,KRW,0,0,0,0,1,2026-08-20 10:00,국내 반품·보증 확인 필요,https://example.com/domestic
+B,해외,가상 제조사몰,KB-100,새 제품,79,USD,0,25,5,미확인,1390,2026-08-20 10:05,국내 A/S 확인 필요,https://example.com/official
+C,해외,가상 오픈마켓,KB-100A,새 제품,72,USD,8,22,0,미확인,1390,2026-08-20 10:10,모델이 달라 별도 후보,https://example.com/market

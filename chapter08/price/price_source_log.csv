@@ -1,0 +1,2 @@
+candidate,source_url,checked_at,currency,product_price,local_shipping,international_shipping,tax,fee,unverified
+A,https://example.com/a,2026-08-23T10:00:00+09:00,USD,399,0,확인 필요,확인 필요,확인 필요,가상 오프라인 계산용 URL
